@@ -1,5 +1,8 @@
 
 
+### <h2 align="center">`Simple linear regression`</h2>
+
+
 ## <center>
   <a href="https://en.wikipedia.org/wiki/Linear_regression" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Linear_least_squares_example2.png/330px-Linear_least_squares_example2.png" style="float:center; max-width: 950px; display: inline" alt="Simple Linear Regression"/> </a>
  </center>
